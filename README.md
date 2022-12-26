@@ -1,5 +1,5 @@
-# 복숭아 나무 영상에서 과실분할과 생장 모니터링을 위한 트랜스포머 모델     
-### - 2022 KSC(Korea Software Congress) 일반논문 포스터세션  
+## 복숭아 나무 영상에서 과실분할과 생장 모니터링을 위한 트랜스포머 모델     
+### - 2022 KSC(Korea Software Congress) 일반논문
 ### - 2022 JBNU 인공지능 경진대회   
 
 swin transformer, yolact, mask r-cnn 코드 : https://github.com/open-mmlab/mmdetection  

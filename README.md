@@ -2,7 +2,12 @@
 ### - 2022 KSC(Korea Software Congress) 일반논문
 ### - 2022 JBNU 인공지능 경진대회   
 
-swin transformer, yolact, mask r-cnn 코드 : https://github.com/open-mmlab/mmdetection  
+swin transformer, yolact, mask r-cnn 코드 : https://github.com/open-mmlab/mmdetection   
+
+* mmdetection 오픈소스로 실험 진행(용량문제로 학습 및 예측에 대한 코드는 mmdetection repository 참고)  
+* 복숭아 dataset - peach_data 폴더  
+* 복숭아 데이터에 알맞은 config 파일 작성 - config 폴더  
+* 후처리 코드 기존 시각화 코드 수정하여 작성 - post_processing.py  
 
 ## 1. 서론
 과실 인식 연구는 대부분 CNN 기반 모델을 활용하고 있으나 중복 예측이 발생하거나 추론 자원 및 시간 비용이 커서 현장 적용에 어려움이 있다.  
